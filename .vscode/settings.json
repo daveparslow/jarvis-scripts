@@ -1,9 +1,25 @@
 {
-    "cSpell.words": [
-        "Drillthrough",
-        "Tampermonkey",
-        "Userscripts",
-        "dgrep",
-        "userscript"
-    ]
+  "cSpell.words": [
+    "Drillthrough",
+    "Tampermonkey",
+    "Userscripts",
+    "dgrep",
+    "linebreak",
+    "userscript"
+  ],
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "typescript",
+      "autoFix": true
+    }
+  ],
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
