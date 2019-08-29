@@ -16,7 +16,7 @@ Userscripts to add functionality to Jarvis.
     |----------------------------------------|:------------------:|
     | Correlation Id                         | [install][cid-raw] |
 
-[cid-raw]: []
+[cid-raw]: [https://raw.githubusercontent.com/daveparslow/jarvis-scripts/master/src/CorrelationId-userscript.js]
 
 ## Updating
 

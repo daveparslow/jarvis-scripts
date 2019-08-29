@@ -6,6 +6,8 @@
 // @author       Dave Parslow
 // @match        https://jarvis-west.dc.ad.msft.net/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/daveparslow/jarvis-scripts/master/src/CorrelationId-userscript.js
+// @downloadURL  https://raw.githubusercontent.com/daveparslow/jarvis-scripts/master/src/CorrelationId-userscript.js
 // ==/UserScript==
 
 (function() {
