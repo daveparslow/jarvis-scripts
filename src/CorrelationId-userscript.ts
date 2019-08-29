@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Jarvis Drillthrough
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/daveparslow
+// @version      1.0
 // @description  Adds a drillthrough for Correlation Ids
 // @author       Dave Parslow
 // @match        https://jarvis-west.dc.ad.msft.net/*
-// @grant        none
+// @run-at      document-idle
+// @grant       GM.addSt
 // @updateURL    https://raw.githubusercontent.com/daveparslow/jarvis-scripts/master/src/CorrelationId-userscript.js
 // @downloadURL  https://raw.githubusercontent.com/daveparslow/jarvis-scripts/master/src/CorrelationId-userscript.js
 // ==/UserScript==
