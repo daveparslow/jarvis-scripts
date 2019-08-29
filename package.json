@@ -1,0 +1,26 @@
+{
+  "name": "jarvis-userscripts",
+  "version": "1.0.0",
+  "description": "Jarvis Userscripts",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveparslow/jarvis-scripts.git"
+  },
+  "keywords": [
+    "User",
+    "scripts"
+  ],
+  "author": "Dave Parslow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveparslow/jarvis-scripts/issues"
+  },
+  "homepage": "https://github.com/daveparslow/jarvis-scripts#readme",
+  "dependencies": {
+    "typescript": "^3.6.2"
+  }
+}

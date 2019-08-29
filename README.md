@@ -12,9 +12,11 @@ Userscripts to add functionality to Jarvis.
     * Learn more about the userscript by clicking on the named link. You will be taken to the specific wiki page.
     * Install a script directly from GitHub by clicking on the "install" link in the table below.
 
-    | Userscript                             | Direct<br>Install | Sites                 | Created    | Updated    |
-    |----------------------------------------|:------------------:|:-------------------------:|:----------:|:----------:|
-    | Correlation Id                         | [install][ccr-raw] | [GF][ccr-gf] [OU][ccr-ou] | 2016.03.20 | 2019.07.31 |
+    | Userscript                             | Direct Install     |
+    |----------------------------------------|:------------------:|
+    | Correlation Id                         | [install][cid-raw] |
+
+[cid-raw]: []
 
 ## Updating
 
